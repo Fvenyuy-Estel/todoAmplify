@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3todostorage9ca75a18",
+  "bucketName": "todo-storage-9ca75a18",
+  "policyUUID": "9fdcb581",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
